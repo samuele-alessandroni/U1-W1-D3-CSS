@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+}
+header p{
+    background-color: rgba(255, 236, 71, 0.2);
+    height: 4em;
+    line-height: 4em;
+    border-top: 2px solid gold;
+    color: #106d6d;
+}
+
+main{
+    width: 25%;
+    margin: auto;
+    margin-top: 64px;
+}
+
+main h1{
+    padding: 0px 48px 0px 48px;
+    text-align: center;
+}
+
+main section div{
+    margin-top: 32px;
+}
+
+main section div video{
+    margin-top: 16px;
+    border-radius: 16px;
+    width: 100%;
+}
+
+main section div .video-credits{
+    text-align: center;
+    color: rgba(121, 121, 121, 0.541);
+    padding-top: 16px;
+}
+
+main section .featured{
+    border-left: 2px solid gold;
+    padding-left: 16px;
+}
+
+main section .featured strong{
+    color: rgb(202, 0, 0);
+    display: block;
+}
+
+main .title{
+    margin-top: 64px;
+    border-bottom: 2px solid rgba(116, 248, 248, 0.274);
+}
+main .title p{
+    font-size: 150%;
+    padding-bottom: 16px;
+}
+
+main section h4{
+    margin-top: 32px;
+}
+
+main section ul{
+    padding-left: 32px;
+    line-height: 28px;
+}
+
+#make{
+    padding-left: 48px;
+}
+main section .method-description{
+    margin-top: 16px;
+    padding-left: 64px;
+}
+
+footer{
+    width: 25%;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
